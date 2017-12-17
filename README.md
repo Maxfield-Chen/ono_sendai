@@ -1,6 +1,6 @@
 # ono_sendai
 
-A Quil sketch designed to ... well, that part is up to you.
+Fractal generator for dusters and jockeys. Written in clojure using Quil. 
 
 ## Usage
 
@@ -10,9 +10,4 @@ Emacs - run cider, open `core.clj` and press `C-c C-k` to evaluate the file.
 
 REPL - run `(require 'ono_sendai.core)`.
 
-## License
-
-Copyright © 2016 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+## WTFPL License
